@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Bassel</h1>
-<h3 align="center">💻 Full Stack Backend Developer | 🗄️ DBA | 🚀 API Specialist | 🔐 Secure Systems Builder</h3>
+<h3 align="center">💻 Full Stack Backend Developer | ⚙️ Workflow Automation Engineer</h3>
+<h3 align="center">🗄️ DBA | 🚀 API Specialist | 🔐 Secure Systems Builder</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working as **Backend Team Leader** at Sofa for Digital Solutions  
-- 🛠️ Built a **web service with 70+ APIs**, high performance & secured  
+- 🔭 Worked +2 Years as **Spring Boot Developer** at Sofa for Digital Solutions
+- 🔭 Currently working as **Spring Boot Developer** at KitSys for Digital Solutions  
+- 🛠️ Built a **Micro Services** with high performance & secured  
 - 🏆 2nd place winner at **Aptech TECHWIZ (Global Competition)**  
 - 🎓 Bachelor’s in **Information Technology** from **Al-Nasser University, Yemen**  
 - 🎓 Diploma in **Information Systems Management** from **Aptech Ltd, India**
@@ -20,6 +22,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
+  <a href="https://temporal.io/" target="_blank" rel="noreferrer">
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/temporal-icon.png" alt="temporal" width="50" height="50"/>
+</a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
