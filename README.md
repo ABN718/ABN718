@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Bassel</h1>
 <h3 align="center">💻 Full Stack Backend Developer | ⚙️ Workflow Automation Engineer</h3>
-<h3 align="center">🗄️ DBA | 🚀 API Specialist | 🔐 Secure Systems Builder</h3>
+<h3 align="center">🧩 Microservices Architect | 🚀 API Specialist | 🔐 Secure Systems Builder</h3>
+
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Worked +2 Years as **Spring Boot Developer** at Sofa for Digital Solutions
-- 🔭 Currently working as **Spring Boot Developer** at KitSys for Digital Solutions  
-- 🛠️ Built a **Micro Services** with high performance & secured  
-- 🏆 2nd place winner at **Aptech TECHWIZ (Global Competition)**  
+- 🔭 Worked +2 Years as **Spring Boot Developer** for **Sofa Digital Solutions, Yemen**
+- 🔭 Currently working as **Spring Boot Developer** for **Obeikan Digital Solution, Saudi Arabia - Remotely**  
+- 🏆 2nd place winner at **Aptech TECHWIZ (Global Tech Competition)**  
 - 🎓 Bachelor’s in **Information Technology** from **Al-Nasser University, Yemen**  
-- 🎓 Diploma in **Information Systems Management** from **Aptech Ltd, India**
+- 🎓 Three Diplomas in **Information Systems Management** from **Aptech Ltd, India**
 
 
 ---
